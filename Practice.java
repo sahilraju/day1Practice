@@ -1,7 +1,7 @@
 package day1_practiceExercise;
 
 import java.util.Scanner;
-//1.2
+
 public class Practice {
 
 	public static void main(String[] args) {
